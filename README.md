@@ -83,6 +83,16 @@
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
 <img width="1610" height="922" alt="image" src="https://github.com/user-attachments/assets/4c5b0227-ba47-4a2c-be2d-161bb344e4ae" />
 
+Так же к каждому хосту привяжите шаблон Linux by Zabbix Agent
+<img width="1641" height="924" alt="image" src="https://github.com/user-attachments/assets/f3ab3261-bea8-46b2-97cd-f713ca8cb35e" />
+<img width="1618" height="915" alt="image" src="https://github.com/user-attachments/assets/59d30877-8f5e-44f9-b4fc-c4e9d967f9fb" />
+
+
+
+Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона
+<img width="1629" height="924" alt="image" src="https://github.com/user-attachments/assets/7e4623b5-acca-42cb-823a-afd1938ce17a" />
+
+
  ---
 
 ### Задание 4
