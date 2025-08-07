@@ -45,7 +45,7 @@
 ![Alt text](SCREENSHORTS/1.1.png)
 
 Создание Item который будет собирать информацию об загрузке CPU в процентах и будет собирать информацию об загрузке RAM в процентах    
-<img width="1611" height="928" alt="image" src="https://github.com/user-attachments/assets/4af3104e-5472-4051-b70f-2bcf6470251f" />
+![Alt text](SCREENSHORTS/1.2.png)
 <img width="1641" height="914" alt="image" src="https://github.com/user-attachments/assets/ec9cfa48-74c3-4a59-93e2-fa1a41dc5d71" />
 Отображение загрузки в latest data
 <img width="1620" height="922" alt="image" src="https://github.com/user-attachments/assets/95d3e049-d1b7-4f4e-be81-108189fa1a79" />
