@@ -40,6 +40,16 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
+Создание нового шаблона в Templates
+<img width="1624" height="916" alt="image" src="https://github.com/user-attachments/assets/58c16f15-bc0a-4fee-aa2f-25c704f9f45a" />
+
+Создание Item который будет собирать информацию об загрузке CPU в процентах и будет собирать информацию об загрузке RAM в процентах    
+<img width="1611" height="928" alt="image" src="https://github.com/user-attachments/assets/4af3104e-5472-4051-b70f-2bcf6470251f" />
+<img width="1641" height="914" alt="image" src="https://github.com/user-attachments/assets/ec9cfa48-74c3-4a59-93e2-fa1a41dc5d71" />
+Отображение загрузки в latest data
+<img width="1620" height="922" alt="image" src="https://github.com/user-attachments/assets/95d3e049-d1b7-4f4e-be81-108189fa1a79" />
+<img width="1609" height="920" alt="image" src="https://github.com/user-attachments/assets/434b0038-49a6-4410-ac6f-96eb007c7b94" />
+<img width="1608" height="912" alt="image" src="https://github.com/user-attachments/assets/081c2e24-cafd-46bd-a2ef-42bd3dc520f8" />
 
  ---
 
