@@ -41,7 +41,7 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 Создание нового шаблона в Templates
-https://github.com/DmitryEgorovy/-Zabbix.-2-/blob/b069f4f4fc43581f72994aee4d4433b294c45e97/SCREENSHORTS/image.png
+![Alt text](images/example.png)
 
 Создание Item который будет собирать информацию об загрузке CPU в процентах и будет собирать информацию об загрузке RAM в процентах    
 <img width="1611" height="928" alt="image" src="https://github.com/user-attachments/assets/4af3104e-5472-4051-b70f-2bcf6470251f" />
