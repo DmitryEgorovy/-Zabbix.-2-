@@ -105,6 +105,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
+<img width="1633" height="931" alt="image" src="https://github.com/user-attachments/assets/8652108e-df12-40d6-b83e-0a1e89ca4a48" />
 
  ---
 
