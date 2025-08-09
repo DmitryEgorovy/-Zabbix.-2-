@@ -49,9 +49,9 @@
 ![Alt text](SCREENSHORTS/1.3.png)
 
 Отображение загрузки в latest data
-<img width="1620" height="922" alt="image" src="https://github.com/user-attachments/assets/95d3e049-d1b7-4f4e-be81-108189fa1a79" />
-<img width="1609" height="920" alt="image" src="https://github.com/user-attachments/assets/434b0038-49a6-4410-ac6f-96eb007c7b94" />
-<img width="1608" height="912" alt="image" src="https://github.com/user-attachments/assets/081c2e24-cafd-46bd-a2ef-42bd3dc520f8" />
+![Alt text](SCREENSHORTS/1.4.png)
+![Alt text](SCREENSHORTS/1.5.png)
+![Alt text](SCREENSHORTS/1.6.png)
 
  ---
 
