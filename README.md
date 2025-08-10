@@ -92,7 +92,7 @@
 
 
 Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона
-![Alt text](SCREENSHORTS/2.4.png)
+![Alt text](SCREENSHORTS/2..png)
 
 
  ---
